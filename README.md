@@ -1,11 +1,14 @@
 # CarnegieMellonMocapRename
-Rename the Carnegie Melon Mocap animations to include keywords in the file name
+Rename the Carnegie-Melon University Mocap animations to include keywords in the file name
 
 ## Prerequisites
 
 1. Install Python
 2. Install xlrd (pip install xlrd)
-3. Download The Carnegie-Melon University Mocap Library From https://assetstore.unity.com/packages/3d/animations/huge-fbx-mocap-library-part-2-20282
+3. Download all 3 parts of the Carnegie-Melon University Mocap Library From:
+https://assetstore.unity.com/packages/3d/animations/huge-fbx-mocap-library-part-1-19991
+https://assetstore.unity.com/packages/3d/animations/huge-fbx-mocap-library-part-2-20282
+https://assetstore.unity.com/packages/3d/animations/huge-fbx-mocap-library-part-3-20285
 
 ## Directions
 
